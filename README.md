@@ -1,5 +1,7 @@
 ![](screenshots/logo.png)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/307865f2-a43a-4781-8e53-c01f6228549e.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/build-a-platform-with-krm?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/14703609-affe-466b-91b5-1b252295bbf0.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/build-a-platform-with-krm?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/84e25d35-47a2-4b99-9c98-c4617fc5cf45.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/build-a-platform-with-krm?orgId=561911742905)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/9604ecac-433c-409c-a9fa-a262bd437456.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/build-a-platform-with-krm?orgId=561911742905)  
+
 This repository contains the demos for the "Build a Platform with KRM" series.
 
 These demos can be completed standalone - all you need is a Google Cloud project and a GitHub account. 
